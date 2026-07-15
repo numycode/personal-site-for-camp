@@ -1,1 +1,1 @@
-# cheese-site
+# Personal Site for Hack Club Stardance
